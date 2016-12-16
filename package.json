@@ -1,0 +1,22 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rshaye/Team1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rshaye/Team1/issues"
+  },
+  "homepage": "https://github.com/rshaye/Team1#readme",
+	"dependencies": {
+        "express": "^4.14.0"
+      }
+}

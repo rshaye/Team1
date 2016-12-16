@@ -1,0 +1,79 @@
+body {
+	background-image: url('background.jpg');
+    margin: 0;
+}
+
+p {
+		letter-spacing: 3px;
+	text-align: center;
+	color: DimGray;	
+}
+h4 {
+	letter-spacing: 3px;
+	text-align: center;
+	color: DimGray;	
+}
+
+h3 {
+    letter-spacing: 3px;
+    text-align: center;
+	color: DimGray;
+}
+
+
+ul {
+    list-style-type: none;
+    margin-top: 370;
+	margin-left: 740;
+    padding: 10;
+    width: 30%;
+    position: fixed;
+    height: 3%;
+    overflow: fixed;
+}
+
+li a {
+	list-style-type: none;
+    display: inline;
+    padding: 8px 0 8px 16px;
+    text-decoration: none;
+}
+
+li a.active {
+	list-style-type: none;
+    color: white;
+}
+
+
+table {
+    border-collapse: collapse;
+    background-color: Ghostwhite;
+	position: fixed;
+    width: 870px;
+    height: 400px;
+    padding: 10px;
+	box-shadow: 5px 5px 20px black;
+	
+    margin-top: 50px;
+	margin-left: 75px;
+
+}
+
+th {
+    height: 50px;
+}
+img {
+    border-radius: 50%;
+	box-shadow: 1px 1px 10px black;
+}
+
+nav {
+	display: inline;
+	list-style-type: none;
+	padding-right: 20px;
+	margin-top:20;
+	
+}
+
+
+
